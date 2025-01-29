@@ -1,4 +1,7 @@
-name: basic
-version: 0.0.1
-url: http://github.com/mrkhdev/yarb-theme-basic.git
-description: "fancy but basic yarb theme"
+name: "Modern Resume"
+description: "Een modern en strak cv-thema."
+author: "John Doe"
+version: "1.0.0"
+license: "MIT"
+engine: "handlebars"
+entry: "templates/template.handlebars"
